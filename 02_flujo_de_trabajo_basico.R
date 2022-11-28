@@ -43,6 +43,6 @@ filter(mpg, cyl == 8)
 filter(diamonds, carat > 3)
 
 
-# Alt + Shift + K shortcuts
+# Alt + Shift + K shortflucuts
 
 

@@ -1,13 +1,13 @@
 # Importación de datos  
 library(tidyverse)
 
-read_csv() archivo por comas
-read_csv2() archivos por punto y comas
-read_tsv() archivo por tabulador
-read_delim() cualquier archivo delimitador
-read_fwf() archivos de ancho fijo
-read_table() archivos de ancho fijo y columnas separadas en blanco
-read_log() archivos tipo apache
+# read_csv() archivo por comas
+# read_csv2() archivos por punto y comas
+# read_tsv() archivo por tabulador
+# read_delim() cualquier archivo delimitador
+# read_fwf() archivos de ancho fijo
+# read_table() archivos de ancho fijo y columnas separadas en blanco
+# read_log() archivos tipo apache
 
 # LLAMAR A UN ARCHIVO DE UNA RUTA ESPECIFICA
 data <- read_csv("database/horror_movie_0.csv")
